@@ -1,0 +1,20 @@
+div {
+    width: 800px;
+    margin: auto;
+}
+
+pre {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    font-size: 60;
+}
+
+h2 {
+    font-size: 45;
+}
+
+p {
+    font-size: 25;
+}
