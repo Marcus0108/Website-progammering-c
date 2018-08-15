@@ -22,3 +22,21 @@ h3 {
 li {
     font-size: 20px;
 }
+
+.indhold-id {
+    position: relative;
+    left: 200px;
+    top: 7px;
+}
+
+.næste-id {
+    position: relative;
+    left: 500px;
+    top: -46px;
+}
+
+.forrige-id {
+    position: relative;
+    left: 0px;
+    top: -100px;
+}
